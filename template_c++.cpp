@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 # define ll long long int
+#define or ||
+#define and &&
 // manthan surkar  ((smallstar)) 
 						
 
