@@ -12,7 +12,7 @@ using namespace std;
  * Now close this file and go play with something else.
  */
 //***************************************************************************
-# define ll long long int
+#define ll long long int
 #define mp make_pair
 #define pb push_back
 #define fi first
