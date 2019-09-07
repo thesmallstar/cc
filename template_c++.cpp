@@ -2,16 +2,8 @@
 using namespace std;
 //************************************//
 //-Manthan Surkar----((smallstar))----//
-//***********************************//
-/*
- * You may think you know what the following code does.
- * But you dont. Trust me.
- * Fiddle with it, and youll spend many a sleepless
- * night cursing the moment you thought youd be clever
- * enough to "optimize" the code below.
- * Now close this file and go play with something else.
- */
 //***************************************************************************
+#define fastio ios::sync_with_stdio(false); cin.tie(0);
 #define ll long long int
 #define mp make_pair
 #define pb push_back
@@ -26,11 +18,8 @@ using namespace std;
 #define dwni(i,a) for(__typeof((a).rbegin()) i=(a).rbegin(), _##i=(a).rend(); i!=_##i; ++i)
 //******************************************************************************
 
-
 int main(){
-	ios::sync_with_stdio(false);
-	cin.tie(0);
-
+	fastio
 	int t;
 
         cin>>t;
@@ -43,7 +32,5 @@ int main(){
 }
 
 
-//************************************//
-// Manthan Surkar----((smallstar))----//
-//***********************************//
+
 
