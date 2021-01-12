@@ -13,6 +13,9 @@ using namespace std;
 #define dwnr(i,l,r) for(int i=(r), _##i=(l); --i>=_##i; )
 #define repi(i,a) for(__typeof((a).begin()) i=(a).begin(), _##i=(a).end(); i!=_##i; ++i)
 #define dwni(i,a) for(__typeof((a).rbegin()) i=(a).rbegin(), _##i=(a).rend(); i!=_##i; ++i)
+typedef vector<long long> vi;
+typedef pair<long long,long long> pi;
+
 
 
 int main(){
