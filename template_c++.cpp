@@ -15,6 +15,7 @@ using namespace std;
 #define dwni(i,a) for(__typeof((a).rbegin()) i=(a).rbegin(), _##i=(a).rend(); i!=_##i; ++i)
 typedef vector<long long> vi;
 typedef pair<long long,long long> pi;
+typedef set<long long> se;
 
 
 
