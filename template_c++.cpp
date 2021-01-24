@@ -60,6 +60,16 @@ using namespace std;
     cerr << '\n';
 #define EPSILON 1e-9
 
+void takeInput(vi &a, int n)
+{
+    ll l;
+    for (int i = 0; i < n; i++)
+    {
+        cin >> l;
+        a.pb(l);
+    }
+}
+
 const ll MOD = 1000000007;
 const ll LIM = 200005;
 const ll BITS = 31;
