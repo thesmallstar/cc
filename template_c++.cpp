@@ -75,12 +75,19 @@ const ll LIM = 200005;
 const ll BITS = 31;
 const ll inf = 1e16;
 
-int main()
+void solve()
+{
+    
+}
+
+signed main()
 {
     fastio;
     int t;
+    t = 1;
     cin >> t;
     fr(i, t)
     {
+        solve();
     }
 }
